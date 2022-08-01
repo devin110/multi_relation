@@ -1,0 +1,22 @@
+{
+    "name": "devin/multi_relation",
+    "type": "library",
+    "license": "MIT",
+    "description": "The multi key relation for Hyperf.",
+    "authors": [
+        {
+            "name": "devin",
+            "email": "394694181@qq.com"
+        }
+    ],
+    "require": {
+        "hyperf/database": "~3.0.0",
+        "hyperf/utils": "~3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devin\\MultiRelation\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
