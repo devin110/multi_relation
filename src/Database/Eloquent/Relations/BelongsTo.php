@@ -1,6 +1,6 @@
 <?php
 
-namespace Devin\MultiRelation\Database\Eloquent\Relations;
+namespace Devin110\MultiRelation\Database\Eloquent\Relations;
 
 use Hyperf\Database\Model\Builder;
 use Hyperf\Database\Model\Collection;

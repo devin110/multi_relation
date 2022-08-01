@@ -1,10 +1,10 @@
 <?php
 
-namespace Devin\MultiRelation;
+namespace Devin110\MultiRelation;
 
-use Devin\MultiRelation\Database\Eloquent\Concerns\HasRelationships;
-use Devin\MultiRelation\Database\Query\Builder;
-use Devin\MultiRelation\Database\Query\Builder as QueryBuilder;
+use Devin110\MultiRelation\Database\Eloquent\Concerns\HasRelationships;
+use Devin110\MultiRelation\Database\Query\Builder;
+use Devin110\MultiRelation\Database\Query\Builder as QueryBuilder;
 use Hyperf\Utils\Str;
 
 trait MultiRelation

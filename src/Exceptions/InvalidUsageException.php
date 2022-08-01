@@ -1,6 +1,6 @@
 <?php
 
-namespace Devin\MultiRelation\Exceptions;
+namespace Devin110\MultiRelation\Exceptions;
 
 use Exception;
 

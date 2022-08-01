@@ -1,12 +1,12 @@
 <?php
 
-namespace Devin\MultiRelation\Database\Eloquent\Concerns;
+namespace Devin110\MultiRelation\Database\Eloquent\Concerns;
 
-use Devin\MultiRelation\MultiRelation;
-use Devin\MultiRelation\Database\Eloquent\Relations\BelongsTo;
-use Devin\MultiRelation\Database\Eloquent\Relations\HasMany;
-use Devin\MultiRelation\Database\Eloquent\Relations\HasOne;
-use Devin\MultiRelation\Exceptions\InvalidUsageException;
+use Devin110\MultiRelation\MultiRelation;
+use Devin110\MultiRelation\Database\Eloquent\Relations\BelongsTo;
+use Devin110\MultiRelation\Database\Eloquent\Relations\HasMany;
+use Devin110\MultiRelation\Database\Eloquent\Relations\HasOne;
+use Devin110\MultiRelation\Exceptions\InvalidUsageException;
 use Hyperf\Database\Model\Builder;
 use Hyperf\Database\Model\Model;
 use Hyperf\Database\Query\Expression;

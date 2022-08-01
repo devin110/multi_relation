@@ -1,8 +1,8 @@
 <?php
 
-namespace Devin\MultiRelation\Database\Eloquent;
+namespace Devin110\MultiRelation\Database\Eloquent;
 
-use Devin\MultiRelation\MultiRelation;
+use Devin110\MultiRelation\MultiRelation;
 use Hyperf\Database\Model\Model as Eloquent;
 
 class Model extends Eloquent

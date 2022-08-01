@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Devin\\MultiRelation\\": "src/"
+            "Devin110110\\MultiRelation\\": "src/"
         }
     },
     "minimum-stability": "dev"

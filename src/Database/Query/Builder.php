@@ -1,6 +1,6 @@
 <?php
 
-namespace Devin\MultiRelation\Database\Query;
+namespace Devin110\MultiRelation\Database\Query;
 
 use Hyperf\Database\Query\Builder as BaseQueryBuilder;
 
