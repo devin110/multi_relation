@@ -1,11 +1,11 @@
 {
-    "name": "devin/multi_relation",
+    "name": "devin110/multi_relation",
     "type": "library",
     "license": "MIT",
     "description": "The multi key relation for Hyperf.",
     "authors": [
         {
-            "name": "devin",
+            "name": "devin110",
             "email": "394694181@qq.com"
         }
     ],
